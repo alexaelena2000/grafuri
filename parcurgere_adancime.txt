@@ -1,0 +1,8 @@
+﻿
+Fie G=(V,M)  un graf neorientat  cu n varfuri (V={1,2,…,n}) si m muchii.
+Algoritmul recursiv de parcurgere a grafului in adancime se implementeaza in procedura parc_adincime,caracterizata asfel:
+-are un parametru formal(nodul curent,aspra caruia se aplica) ;
+procedeaza astfel:
+              -afiseaza nodul asupra caruia se aplica si-l marcheaza ca fiind vizitat;
+              -pentru fiecare vecin nevizitat de-al nodului curent
+                             se autoapeleaza asupra sa.

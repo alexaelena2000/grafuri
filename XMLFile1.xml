@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mn>
+  <elev>
+    <nume>LUNCASU</nume>
+    <prenume>CATALINA</prenume>
+    <clasa>11A</clasa>
+    <nota>10</nota>
+  </elev>
+  <elev>
+    <nume>Ilie</nume>
+    <prenume>Mihai</prenume>
+    <clasa>
+    </clasa>
+    <nota>4</nota>
+  </elev>
+  <elev>
+    <nume>Catalina </nume>
+    <prenume>Ioana</prenume>
+    <clasa>a XI-a</clasa>
+    <nota>10</nota>
+  </elev>
+  <elev>
+    <nume>popa</nume>
+    <prenume>maria</prenume>
+    <clasa>11a</clasa>
+    <nota>4</nota>
+  </elev>
+  <elev>
+    <nume>RADU</nume>
+    <prenume>ION</prenume>
+    <clasa>12D</clasa>
+    <nota>4</nota>
+  </elev>
+  <elev>
+    <nume>ung</nume>
+    <prenume>alx</prenume>
+    <clasa>11</clasa>
+    <nota>7</nota>
+  </elev>
+</mn>

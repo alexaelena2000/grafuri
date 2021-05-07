@@ -1,0 +1,14 @@
+Multimea nodurilor: X={1,2,3,4};
+Multimea muchiilor: U={(1,2), (2,3), (2,4)}
+GRADUL nodului 2: d(2)=3
+Nod IZOLAT: 5
+Noduri TERMINALE: 1
+Nodurile 2 si 3 se numesc ADIACENTE.
+Nodul 2 si muchia (2,4) se numesc INDICENTE.
+
+
+**gradul unui nod x, notat d(x), reprezinta numarul muchiilor care trec prin nodul x.
+**nodul izolat reprezinta nocul care are gradul 0.
+**nodul terminat reprezinta nodul cu gradul 1.
+**daca exista muchia u=(x,y), atunci vom spune ca nodurile x si y sunt adiacente.
+**daca exista muchia u=(x,y), atunci vom spune ca nodul x si muchia u sunt incidente.

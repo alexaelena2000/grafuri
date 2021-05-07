@@ -1,0 +1,1 @@
+Intru-un graf G=(X,U) nu n varfuri si m muchii, suma gradelor tuturor varfurilor este egala cu 2*numarul muchiilor.

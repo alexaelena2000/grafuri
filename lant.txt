@@ -1,0 +1,18 @@
+﻿Definitie.Fie G=(V,M) un graf neorientat.Se numeste lant, in graful G o succesiune de noduri,
+notata cu L[x1 ,x2 ,….,xn ] ,cu prorpietatea ca oricare doua noduri consecutive sunt adiacente
+,altfel spus[x1 ,x2 ],…,[xn-1 , xn ]sunt muchii
+Se intalnesc notiunile:
+ -extremitatile lantului
+     *fiind dat lantul L[x1 ,x2 ,….,xn  ],se numesc extremitati ale sale nodurile x1 si xn  
+	 (x1 -extremitatea initiala; xn -extremitatea finala);
+-lungimea lantului ;
+      * lungimea lantului prin care se se intelege numarul de muchii care apar in cadrul lui;
+
+Definitie.Fie G=(V,M) un graf neorientat.Se numeste lant elementar,in graful G,
+lantul L[x1 ,x2 ,….,xn  ] cu proprietatea ca oricare doua noduri ale sale sunt distincte
+(altfel spus:printr-un nod nu se trece decat o singura data).
+
+Definitie.FieG=(V,M)un graf neorientat.Se numeste lant neelementar in graful G lantul
+ L[x1 ,x2 ,….,xn  ] cu proprietatea ca nodurile sale nu sunt distincte doua cate doua(altfel
+ spus:prin anumite noduri se trece de mai multe ori).
+

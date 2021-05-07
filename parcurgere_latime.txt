@@ -1,0 +1,9 @@
+﻿Pecurgerea in latime(BF-breadth first)
+
+  Fie G=(V,M) un graf neorientat cu n varfuri(V={1,2,..,n}) si m muchii.
+Algoritmul de parcurgere a grafului in latime,folosind o coada ,este:
+-initial toate nodurile se considera nevitate;
+-se citeste nodul de plecare pl,care se considera acum vizitat,si se trec in coada pe prima pozitie;
+-se trec in coada toate nodurile nevizitate pana in prezent si sunt adicente cu nodul de plecare(odata cu trecerea lor in coada se marcheaza ca fiind vizitate);
+-se trece la urmatorul element din coada,care ia rolul nodului de plecare,si se reia pasul anterior;
+-algoritmul se termina dupa ce sunt parcuse toate elementele din coada,

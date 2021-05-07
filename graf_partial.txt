@@ -1,0 +1,5 @@
+Fie graful G=(X,U).Un GRAF PARTIAL al lui G,
+este un graf G1=(X,V), cu v apartinand U. 
+Altfel spus, un graf partial G1 al lui G,
+este chiar G, sau se obtine din G pastrand 
+toate varfurile si suprimand niste muchii.
